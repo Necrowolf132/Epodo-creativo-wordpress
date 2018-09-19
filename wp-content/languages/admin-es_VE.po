@@ -2719,7 +2719,7 @@ msgstr "Deberías recibir esta información de tu proveedor de alojamiento web, 
 msgid "Need more help? <a href=\"%s\">We got it</a>."
 msgstr "¿Necesitas más ayuda? <a href=\"%s\">La tenemos</a>."
 
-#. translators: 1: wp-config-sample.php, 2: wp-config.php
+#. translators: 1: wp-config.php, 2: wp-config.php
 #: wp-admin/setup-config.php:169
 msgid "If for any reason this automatic file creation doesn&#8217;t work, don&#8217;t worry. All this does is fill in the database information to a configuration file. You may also simply open %1$s in a text editor, fill in your information, and save it as %2$s."
 msgstr "Si por alguna razón no funciona la creación automática de este archivo, no te preocupes. Todo lo que hace es rellenar la información de la base de datos en un archivo de configuración. También puedes simplemente abrir el archivo %1$s en un editor de texto, rellenarlo con tu información y guardarlo como %2$s."
@@ -6359,7 +6359,7 @@ msgstr "El archivo %1$s ya existe en un nivel superior de tu instalación de Wor
 msgid "The file %1$s already exists. If you need to reset any of the configuration items in this file, please delete it first. You may try <a href=\"%2$s\">installing now</a>."
 msgstr "El archivo %1$s ya existe. Si necesitas recuperar algunos de los elementos de configuración de este archivo bórralo primero. Puedes probar a <a href=\"%2$s\">instalarlo ahora</a>."
 
-#. translators: %s: wp-config-sample.php
+#. translators: %s: wp-config.php
 #: wp-admin/setup-config.php:51
 msgid "Sorry, I need a %s file to work from. Please re-upload this file to your WordPress installation."
 msgstr "Lo siento, necesito un archivo %s desde el que poder trabajar. Por favor, sube de nuevo este archivo a tu instalación de WordPress."

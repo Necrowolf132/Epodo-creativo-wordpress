@@ -102,10 +102,10 @@ msgstr "La dirección de correo electrónico del autor del primer comentario en 
 msgid "First Comment Email"
 msgstr "Correo electrónico del primer comentario"
 
-#. translators: This string should only be translated if wp-config-sample.php
+#. translators: This string should only be translated if wp-config.php
 #. is localized. You can check the localized release package or
 #. https://i18n.svn.wordpress.org/<locale code>/branches/<wp
-#. version>/dist/wp-config-sample.php
+#. version>/dist/wp-config.php
 #: wp-admin/includes/network.php:436
 msgid "That&#8217;s all, stop editing! Happy blogging."
 msgstr "¡Eso es todo, deja de editar! Feliz blogueo."
