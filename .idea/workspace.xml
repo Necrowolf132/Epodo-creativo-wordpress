@@ -571,6 +571,7 @@
       <change beforePath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/akismet/wrapper.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/plugins/hello.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/plugins/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/plugins/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/hestia/assets/css/mystyles.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/hestia/assets/css/mystyles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/404.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfifteen/archive.php" afterDir="false" />
@@ -1571,8 +1572,8 @@
       <file leaf-file-name="mystyles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/assets/css/mystyles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            <state relative-caret-position="453">
+              <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -1788,12 +1789,12 @@
       <workItem from="1536840892671" duration="3153000" />
       <workItem from="1536977406030" duration="4494000" />
       <workItem from="1537078274439" duration="17744000" />
-      <workItem from="1537280247898" duration="16019000" />
+      <workItem from="1537280247898" duration="16796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46316000" />
+    <option name="totallyTimeSpent" value="47093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-3" y="31" width="1372" height="740" extended-state="6" />
@@ -2098,8 +2099,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/hestia/assets/css/mystyles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state relative-caret-position="453">
+          <caret line="45" column="25" selection-start-line="45" selection-start-column="25" selection-end-line="45" selection-end-column="25" />
         </state>
       </provider>
     </entry>
