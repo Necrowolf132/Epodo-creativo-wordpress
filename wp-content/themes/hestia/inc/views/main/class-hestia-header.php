@@ -51,9 +51,9 @@ class Hestia_Header extends Hestia_Abstract_Main {
 		$class .= $this->get_nav_alignment_class();
 		$class .= $this->get_full_screen_menu_class();
 		$class .= $this->get_top_bar_enabled_class();
-		if ( ! is_front_page() ) {
+		/*if ( ! is_front_page() ) {
 			$class .= ' navbar-not-transparent';
-		}
+		}*/
 
 		return $class;
 	}
@@ -157,7 +157,7 @@ class Hestia_Header extends Hestia_Abstract_Main {
 			$class = '';
 		}
 		if ( ! is_front_page() ) {
-			$class = '';
+			$class = ' navbar-color-on-scroll navbar-transparent';
 		}
 		if ( is_front_page() && is_home() ) {
 			return '';

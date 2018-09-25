@@ -962,6 +962,7 @@ class Hestia_Import_Zerif extends Hestia_Import_Utilities {
 			'sidebar-widgets-subscribe-widgets' => 55,
 			'hestia_shop'                       => 60,
 			'hestia_blog'                       => 65,
+            'hestia_services'                   => 70,
 		);
 		$section_mapping = array(
 			'our_focus'    => 'hestia_features',

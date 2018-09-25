@@ -67,6 +67,8 @@ class Hestia_Blog_Section_Controls extends Hestia_Front_Page_Section_Controls_Ab
 	public function blog_content_callback() {
 		$blog_section = new Hestia_Blog_Section();
 		$blog_section->blog_content();
+		$services_section = new Hestia_Service_Section();
+        $services_section->blog_content();
 	}
 
 

@@ -37,7 +37,6 @@ if ( ! is_page_template() && ! get_theme_mod( 'disable_frontpage_sections', fals
 		 * @hooked hestia_contact_section - 10
 		 */
 		do_action( 'hestia_sections', false );
-
 		get_footer();
 
 } else {

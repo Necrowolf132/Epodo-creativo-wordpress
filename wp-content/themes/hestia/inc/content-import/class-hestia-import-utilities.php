@@ -107,6 +107,7 @@ class Hestia_Import_Utilities {
 			'hestia_contact'                    => 50,
 			'hestia_pricing'                    => 55,
 			'sidebar-widgets-subscribe-widgets' => 60,
+            'hestia_services'                   => 61,
 		);
 
 		if ( empty( $previous_theme_content ) ) {
